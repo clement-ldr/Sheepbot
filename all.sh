@@ -9,5 +9,4 @@ done
 while [ true ];
 do
 	sleep 10m
-	echo "JB_PD"
 done
